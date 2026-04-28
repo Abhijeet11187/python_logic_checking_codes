@@ -5,3 +5,5 @@ def reverse_string(inputString):
     return result
 
 print(reverse_string("genai")) 
+
+# Output is ianeg
